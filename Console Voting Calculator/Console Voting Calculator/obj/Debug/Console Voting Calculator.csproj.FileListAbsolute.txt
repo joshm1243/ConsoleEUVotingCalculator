@@ -4,3 +4,9 @@ C:\Users\joshu\source\repos\Console Voting Calculator\Console Voting Calculator\
 C:\Users\joshu\source\repos\Console Voting Calculator\Console Voting Calculator\bin\Debug\Console Voting Calculator.pdb
 C:\Users\joshu\source\repos\Console Voting Calculator\Console Voting Calculator\obj\Debug\Console Voting Calculator.exe
 C:\Users\joshu\source\repos\Console Voting Calculator\Console Voting Calculator\obj\Debug\Console Voting Calculator.pdb
+C:\Users\joshu\OneDrive\Desktop\Console Voting Calculator\Console Voting Calculator\Console Voting Calculator\bin\Debug\Console Voting Calculator.exe.config
+C:\Users\joshu\OneDrive\Desktop\Console Voting Calculator\Console Voting Calculator\Console Voting Calculator\bin\Debug\Console Voting Calculator.exe
+C:\Users\joshu\OneDrive\Desktop\Console Voting Calculator\Console Voting Calculator\Console Voting Calculator\bin\Debug\Console Voting Calculator.pdb
+C:\Users\joshu\OneDrive\Desktop\Console Voting Calculator\Console Voting Calculator\Console Voting Calculator\obj\Debug\Console Voting Calculator.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Console Voting Calculator\Console Voting Calculator\Console Voting Calculator\obj\Debug\Console Voting Calculator.exe
+C:\Users\joshu\OneDrive\Desktop\Console Voting Calculator\Console Voting Calculator\Console Voting Calculator\obj\Debug\Console Voting Calculator.pdb

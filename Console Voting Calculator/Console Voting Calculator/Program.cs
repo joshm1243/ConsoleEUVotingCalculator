@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+
+//I've added this comment at the top
 namespace Console_Voting_Calculator
 {
 
