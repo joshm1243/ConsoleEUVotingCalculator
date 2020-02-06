@@ -1,0 +1,4 @@
+Qualified Majority,55
+Reinforced Qualified Majority,72
+Simple Majority,50
+Unanimity,100
